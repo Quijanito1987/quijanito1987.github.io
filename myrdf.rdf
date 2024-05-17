@@ -9,7 +9,6 @@
     <dc:publisher>https:</dc:publisher>
     <dc:identifier>https://quijanito1987.github.io/</dc:identifier>
     <dc:license>https://co.creativecommons.net/tipos-de-licencias/</dc:license>
-    <dcterms:created>2024-05-17</dcterms:created>
     <dc:type>
       <rdf:Bag>
         <rdf:li rdf:resource="http://purl.org/dc/dcmitype/Collection"/>
@@ -17,4 +16,9 @@
         <rdf:li rdf:resource="http://purl.org/dc/dcmitype/PhysicalObject"/>
         <rdf:li rdf:resource="http://purl.org/dc/dcmitype/Service"/>
         <rdf:li rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-        <rdf:li rdf:resource="http://purl.org/dc
+        <rdf:li rdf:resource="http://purl.org/dc/dcmitype/Text"/>
+      </rdf:Bag>
+    </dc:type>
+    <dcterms:created>2024-05-17</dcterms:created>
+  </rdf:Description>
+</rdf:RDF>
