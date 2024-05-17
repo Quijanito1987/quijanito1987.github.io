@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/"
+xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+xmlns:admin="http://webns.net/mvcb/">
+
+<rdf:Description rdf:about="http://www.andresdiaz.infinityfreeapp.com/">
+<dc:title>Web Personal - Carlos Andrés Díaz Santacruz</dc:title>
+<dc:description>Este Sitio corresponde al Web Personal del Estudiante de Doctorado en Ciencias de la Computación en la Universidad del Cauca del Ingeniero Carlos Andrés Díaz Santacruz.</dc:description>
+<dc:subject>
+<rdf:Bag>
+<rdf:li>web</rdf:li>
+<rdf:li>personal</rdf:li>
+<rdf:li>información</rdf:li>
+<rdf:li>contacto</rdf:li>
+<rdf:li>recursos</rdf:li>
+</rdf:Bag>
+</dc:subject>
+<dc:language>es</dc:language>
+<dc:creator dc:source="http://www.andresdiaz.infinityfreeapp.com/" rdfs:Literal="Carlos Andrés Díaz Santacruz" />
+<dc:contributor dc:source="https://www.linkedin.com/in/manzamb/?originalSubdomain=co" rdfs:Literal="Miguel Angel Niño Zambrano" />
+<dc:publisher dc:source="https://vri.unicauca.edu.co/editorial/" rdfs:Literal="Editorial Unicauca" />
+<dc:license dc:source="https://co.creativecommons.net/tipos-de-licencias/" rdfs:Literal="CC-BY-ND" />
+<dcterms:Created><dcterms:W3CDTF><rdf:value>2024-05-17</rdf:value></dcterms:W3CDTF></dcterms:Created>
+<dc:type rdfs:value="http://purl.org/dc/dcmitype/Collection" />
+<dc:type rdfs:value="http://purl.org/dc/dcmitype/Dataset" />
+<dc:type rdfs:value="http://purl.org/dc/dcmitype/Image" />
+<dc:type rdfs:value="http://purl.org/dc/dcmitype/PhysicalObject" />
+<dc:type rdfs:value="http://purl.org/dc/dcmitype/Service" />
+<dc:type rdfs:value="http://purl.org/dc/dcmitype/Software" />
+<dc:type rdfs:value="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:type rdfs:value="http://purl.org/dc/dcmitype/Text" />
+<dc:relation dc:source="https://www.linkedin.com/in/carlos-andr%C3%A9s-d%C3%ADaz-santacruz-3b5209132" rdfs:Literal="Red Social Empresarial Linkedln" />
+<dc:relation dc:source="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001310852" rdfs:Literal="Hoja de Vida Plataforma Scienti" />
+<admin:generatorAgent rdf:resource="http://www.webposible.com/utilidades/dublincore-metadata-gen/" />
+</rdf:Description>
+</rdf:RDF>
